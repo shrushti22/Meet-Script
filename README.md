@@ -74,5 +74,8 @@ Follow the Steps for your Convinience:
 - Download the pdf before you leave the meet. Due to any network issue if your call gets disconnected, don't panic rejoin the same meet, your data won't be deleted.
 
 ## Contributions
-
 You can contribute to this project by solving existing issues or adding a new feature.
+
+### Contributors
+- <a href="https://github.com/shrushti22">Shrushti Vasaniya</a>
+- <a href="https://github.com/RutvijDv">Rutvij Vamja</a>
